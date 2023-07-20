@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnnydreher&show_icons=true&locale=en" alt="johnnydreher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnnydreher&" alt="johnnydreher" /></p>
+
+Readme gerado com https://rahuldkjain.github.io/gh-profile-readme-generator/
